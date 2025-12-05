@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**Fyre-Aspect/Fyre-Aspect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aamirali “Fyre-Aspect” Tinwala, a developer building web apps and projects that use APIs to create real functionality.
 
-Here are some ideas to get you started:
+What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web applications using React, TypeScript, and JavaScript
+
+I integrate APIs to make projects dynamic and interactive
+
+I focus on learning new tools and improving my skills with every project
+
+Projects
+
+Lyra, Flowboard, ShurPlus – Projects using APIs to fetch and display data, demonstrating interactive web functionality
+
+Portfolio Website – My personal website showing my skills, projects, and achievements. Built with Next.js and TypeScript
+
+Skills
+
+Web development with React, JavaScript, and TypeScript
+
+API integration and working with dynamic data
+
+Basic backend and hardware experimentation
+
+Get in Touch
+
+Check out my portfolio here
+
+See all projects on GitHub
