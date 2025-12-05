@@ -1,31 +1,27 @@
-Hi there 👋
+# Hi there 👋
 
-I am Aamirali “Fyre-Aspect” Tinwala, a developer building web apps and projects that use APIs to create real functionality.
+I am **Aamirali “Fyre-Aspect” Tinwala**, a developer building web apps and projects that use APIs to create real functionality.
 
-What I Do
+## What I Do
 
-I build web applications using React, TypeScript, and JavaScript
+- Build web applications using **React**, **TypeScript**, and **JavaScript**  
+- Integrate APIs to make projects dynamic and interactive  
+- Continuously learn new tools and improve my skills  
 
-I integrate APIs to make projects dynamic and interactive
+## Projects
 
-I focus on learning new tools and improving my skills with every project
+- **Lyra** – Uses APIs to fetch and display data, demonstrating interactive web functionality  
+- **Flowboard** – API-driven project for real-time data and user interaction  
+- **ShurPlus** – Integrates APIs for a functional and responsive web experience  
+- **Portfolio Website** – My personal website showing my skills, projects, and achievements. Built with Next.js and TypeScript  
 
-Projects
+## Skills
 
-Lyra, Flowboard, ShurPlus – Projects using APIs to fetch and display data, demonstrating interactive web functionality
+- Web development with React, JavaScript, and TypeScript  
+- API integration and working with dynamic data  
+- Basic backend and hardware experimentation  
 
-Portfolio Website – My personal website showing my skills, projects, and achievements. Built with Next.js and TypeScript
+## Get in Touch
 
-Skills
-
-Web development with React, JavaScript, and TypeScript
-
-API integration and working with dynamic data
-
-Basic backend and hardware experimentation
-
-Get in Touch
-
-Check out my portfolio here
-
-See all projects on GitHub
+- Portfolio: [aamirtinwala.vercel.app](https://aamirtinwala.vercel.app)  
+- GitHub: [Fyre-Aspect](https://github.com/Fyre-Aspect)
