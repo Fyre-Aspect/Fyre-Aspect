@@ -17,4 +17,4 @@ I am **Aamirali “Fyre-Aspect” Tinwala**, a developer building web apps and p
 
 ## Get in Touch
 - Portfolio: [aamirtinwala.vercel.app](https://aamirtinwala.vercel.app)  
-- Linkdeln: Aamirali Tinwala [https://www.linkedin.com/in/aamirali-tinwala/](url)
+- Linkdeln: Aamirali Tinwala [https://www.linkedin.com/in/aamirali-tinwala/](https://www.linkedin.com/in/aamirali-tinwala/)
