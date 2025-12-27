@@ -1,8 +1,12 @@
 # 💫 About Me:
 I am Aamirali “Fyre-Aspect” Tinwala, a developer building web apps and projects that use APIs to create real functionality.<br><br>What I Do<br>Build web applications using React, TypeScript, and JavaScript<br>Integrate APIs to make projects dynamic and interactive<br>Continuously learn new tools and improve my skills<br>Projects: 
+
 <br>Lyra – Uses APIs to fetch and use real time teaching assistant in your discord call, demonstrating interactive web functionality and backend versatility.
+
 <br>ShurPlus – Integrates APIs for a functional and responsive web experience helping logistics issue between foodbanks, organizers and volunteers.
+
 <br>Portfolio Website – My personal website showing my skills, projects, and achievements. Built with Next.js and TypeScript with an additional feature of a chatbot made for ease of navigation.
+
 <br>Skills<br>Web development with React, JavaScript, and TypeScript<br>API integration and working with dynamic data<br>Basic backend and hardware experimentation<br>
 
 
